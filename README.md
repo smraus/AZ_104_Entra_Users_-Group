@@ -1,4 +1,4 @@
-# AZ_104_Entra_Users_&_Group
+# AZ_104_Entra_Users_&_Groups
 - Manage azure AD/Microsoft entra ID users -> Create new users 
 - Manage azure AD/Microsoft entra ID groups -> Create new groups – group type – group name – assign/dynamic – (if dynamic) property - operator- value
 - Manage azure AD/Microsoft entra ID License -> Entra – license – license feature (you can assign users for whatever services needed)
